@@ -1,5 +1,15 @@
+#!/usr/bin/python3
 import string
 import random
+
+print("")
+print("   _____    _____           _____ ")
+print("  / ____|  / ____|  ______ /  __ |")
+print(" | |      | (___   |___  / \ \_| |")
+print(" | |       \ __ \    |_  \  \__  |")
+print(" | |____   ____) |  ___) |     | |")
+print("  \_____| |_____/  |_____/     |_|")
+print("")
 
 #Validación de la entrada
 def validar_input(msg, tipo='int'):
